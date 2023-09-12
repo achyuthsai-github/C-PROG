@@ -1,0 +1,1 @@
+/* to calculate simple and compound intrest*/
